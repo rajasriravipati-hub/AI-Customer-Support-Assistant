@@ -3,9 +3,11 @@ python-dotenv
 pandas
 numpy
 pdfplumber
-google-generativeai
 sentence-transformers
 faiss-cpu
 plotly
 scikit-learn
 torch
+langchain
+langchain-text-splitters
+groq
